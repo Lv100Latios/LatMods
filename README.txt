@@ -8,7 +8,7 @@ A collection of sound mods being implemented primarily for aircraft but also som
 //Additionally, big thanks to Diwako for a lot of modding and scripting support. This would not have been made without him.
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-This is the testing branch, v1 of the combined branch of mods for the FPArma modpack. There are currently 2 main things that this mod does:
+This is the testing branch, v1.0.1 of the combined branch of mods for the FPArma modpack. There are currently 2 main things that this mod does:
 	Aircraft Sounds
 	IR Missile Sounds
 
