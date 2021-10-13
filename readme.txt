@@ -1,6 +1,6 @@
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// //This mod is NOT to be used in a commercial product and falls under BI's APL-SA License //Do not redistribute this mod without explicit permission from me: https://steamcommunity.com/id/Lv100Cinderace //However, do feel free to use this mod for inspiration, though there are likely much more talented people than myself. //Additionally, big thanks to Diwako for a lot of modding and scripting support. This would not have been made without him. ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-This is the testing branch, v1 of the combined branch of mods for the FPArma modpack. There are currently 2 main things that this mod does: Aircraft Sounds IR Missile Sounds
+This is the testing branch, v1.0.1 of the combined branch of mods for the FPArma modpack. There are currently 2 main things that this mod does: Aircraft Sounds IR Missile Sounds
 
 For aircraft sounds, the main archetypes are as follows: BLUFOR Aircraft BLUFOR Naval Aircraft OPFOR Aircraft GREENFOR/IND Aircraft
 
