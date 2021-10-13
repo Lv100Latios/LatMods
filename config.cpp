@@ -17,16 +17,10 @@ class CfgPatches
 		
 		units[] = {};
 		weapon[] = {};
-		requiredVersion = 0.1;
+		requiredVersion = 2.06;
 		requiredAddons[] = {
-			"CBA_Common",
-			"A3_Air_F",
-			"A3_Sounds_F",
-			"A3_Weapons_F",
-			"A3_Air_F_Jets",
-			"A3_Air_F_Heli",
-			"A3_Sounds_F_Jets",
-			"A3_Sounds_f_Heli",
+			//"CBA_Common",
+			"A3_Data_F_AOW_Loadorder",
 			"rhsusf_sounds",
 			"rhsusf_a2port_air",
 			"rhsusf_a2port_air2",
@@ -200,7 +194,6 @@ class CfgWeapons
 	class RocketPods;
 	class launch_O_Titan_F;
 	class Rhs_weap_TOW_Launcher;
-	class missiles_titan_static;
 	class weapon_BIM9xLauncher : MissileLauncher{
 		lockingTargetSound[] = {"LATMods\Sounds\AIM9Growl.wss",20,1};
 		lockedTargetSound[] = {"LATMods\Sounds\AIM9Uncaged.wss",20,1};
@@ -220,10 +213,6 @@ class CfgWeapons
 	class Rhs_weap_stinger_Launcher : Rhs_weap_TOW_Launcher {
 		lockingTargetSound[] = {"LATMods\Sounds\stingerGrowl2.wss",20,1};
 		lockedTargetSound[] = {"LATMods\Sounds\stingerLock.wss",20,1};
-	};
-	class Rhs_weap_stinger_Launcher_static : Rhs_weap_stinger_Launcher {
-		lockingTargetSound[] = {"LATMods\Sounds\stingerGrowl2.wss",1,1};
-		lockedTargetSound[] = {"LATMods\Sounds\stingerLock.wss",1,1};
 	};
 	class rhs_weap_strela : launch_O_Titan_F {
 		lockingTargetSound[] = {"LATMods\Sounds\stingerGrowl1.wss",1,1};
