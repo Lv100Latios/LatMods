@@ -8,7 +8,7 @@ A collection of sound mods being implemented primarily for aircraft but also som
 //Additionally, big thanks to Diwako for a lot of modding and scripting support. This would not have been made without him.
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-This is the testing branch, v1.0.1 of the combined branch of mods for the FPArma modpack. There are currently 2 main things that this mod does:
+This is the testing branch, v1.0.2 of the combined branch of mods for the FPArma modpack. There are currently 2 main things that this mod does:
 	Aircraft Sounds
 	IR Missile Sounds
 
@@ -22,11 +22,13 @@ Each archetype has their own distinct sound for being locked and engaged. Even i
 	If it sounds like it's yelling at you, you're probably being fired upon.
 	If it's slow or constant, you're being locked.
 
-The second portion of this is for missile sounds, and they are broken into two categories:
-	AIM-9/ASRAAM and ther derivatives
+The second portion of this is for missile sounds, and they are broken into the following categories:
+	AIM-9/ASRAAM/r79 and ther derivatives
+	RHS-specific AIM-120
 	Stinger/Igla
 
-The AIM-9 and ASRAAM missiles will have a very distinct "Sidewinder" growl as you lock, and a higher pitch when fully locked.
+The AIM-9 and ASRAAM missiles will have a very distinct "Sidewinder" growl as you lock, and a higher pitch when fully locked. The r79 has its own sounds for locking and locked.
+The RHS AIM-120 will play a "Lock" voice cue when a target is locked. This may eventually be moved over to the vanilla AMRAAMs if I can have the code differentiate between the Black Wasp and the Gripen.
 The Stinger and Igla MANPAD/vehicle carried systems will have more of a scratchy tone as it locks and a clearer tone when fully locked.
 Currently, the vanilla Titan AA does not get a special tone, nor do the Tigris/Bardelas AA platforms. If you think this should change, please let me know.
 
