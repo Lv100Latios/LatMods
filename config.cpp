@@ -194,7 +194,7 @@ class CfgWeapons
 	class RocketPods;
 	class launch_O_Titan_F;
 	class Rhs_weap_TOW_Launcher;
-	class weapon_BIM9xLauncher : MissileLauncher{
+	class weapon_BIM9xLauncher : MissileLauncher {
 		lockingTargetSound[] = {"LATMods\Sounds\AIM9Growl.wss",20,1};
 		lockedTargetSound[] = {"LATMods\Sounds\AIM9Uncaged.wss",20,1};
 	};
@@ -205,6 +205,10 @@ class CfgWeapons
 	class missiles_ASRAAM : MissileLauncher {
 		lockingTargetSound[] = {"LATMods\Sounds\AIM9Growl.wss",20,1};
 		lockedTargetSound[] = {"LATMods\Sounds\AIM9Uncaged.wss",20,1};
+	};
+	class weapon_R73Launcher : MissileLauncher {
+		lockingTargetSound[] = {"LATMods\Sounds\r73Locking.wss",20,1};
+		lockedTargetSound[] = {"LATMods\Sounds\r73Lock.wss",20,1};
 	};
 	class rhs_weap_fim92 : launch_O_Titan_F {
 		lockingTargetSound[] = {"LATMods\Sounds\stingerGrowl1.wss",1,1};
@@ -227,19 +231,11 @@ class CfgWeapons
 		lockedTargetSound[] = {"LATMods\Sounds\AIM9Uncaged.wss",1,1};
 	};
 	class rhs_weap_AIM120 : MissileLauncher {
-		lockingTargetSound[] = {,1,1};
-		lockedTargetSound[] = {,1,1};
+		lockingTargetSound[] = {"\A3\Sounds_F\weapons\Rockets\locked_1",0,1};
+		lockedTargetSound[] = {"LATMods\Sounds\USLock.wss",1,1};
 	};
 	class rhs_weap_r73_Launcher : RocketPods {
-		lockingTargetSound[] = {,1,1};
-		lockedTargetSound[] = {,1,1};
-	};
-	class rhs_weap_r27r_Launcher : RocketPods {
-		lockingTargetSound[] = {,1,1};
-		lockedTargetSound[] = {,1,1};
-	};
-	class rhs_weap_r27t_Launcher : RocketPods {
-		lockingTargetSound[] = {,1,1};
-		lockedTargetSound[] = {,1,1};
+		lockingTargetSound[] = {"LATMods\Sounds\r73Locking.wss",20,1};
+		lockedTargetSound[] = {"LATMods\Sounds\r73Lock.wss",20,1};
 	};
 };
