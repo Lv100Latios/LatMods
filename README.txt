@@ -32,10 +32,7 @@ The RHS AIM-120 will play a "Lock" voice cue when a target is locked. This may e
 The Stinger and Igla MANPAD/vehicle carried systems will have more of a scratchy tone as it locks and a clearer tone when fully locked.
 Currently, the vanilla Titan AA does not get a special tone, nor do the Tigris/Bardelas AA platforms. If you think this should change, please let me know.
 
-Installation: Load the addon like any other addon. If you're using a file manager, it should be the same process. Otherwise, place in your addons folder (who still does this?).
-
-***This is currently not keyed onto the server!***
-Don't expect this to work until it's the main, accepted branch.
+Installation: Load the addon like any other addon. If you're using a file manager, it should be the same process as regular addons. Otherwise, place in your addons folder (who still does this?). Currently, the stable branch is under Optionals within Swifty for the modpack.
 
 If you have any suggestions or issues, please let me know through the issues tracker. You can find me on Discord as Lv100Latias (Silver#5760)
 
