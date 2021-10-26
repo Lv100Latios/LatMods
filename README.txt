@@ -37,7 +37,7 @@ Installation: Load the addon like any other addon. If you're using a file manage
 ***This is currently not keyed onto the server!***
 Don't expect this to work until it's the main, accepted branch.
 
-If you have any suggestions or issues, please let me know through the issues tracker. You can find me on Discord as Lv100Latios (Silver#5760)
+If you have any suggestions or issues, please let me know through the issues tracker. You can find me on Discord as Lv100Latias (Silver#5760)
 
 Current development priorities:
 1. Ensure sounds are set properly for each aircraft as applicable.
