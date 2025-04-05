@@ -3,7 +3,7 @@ A collection of sound mods being implemented primarily for aircraft but also som
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //This mod is NOT to be used in a commercial product and falls under BI's APL-SA License
-//Do not redistribute this mod without explicit permission from me: https://steamcommunity.com/id/Lv100Cinderace
+//Do not redistribute this mod without explicit permission from me: https://steamcommunity.com/id/AliceDerg
 //However, do feel free to use this mod for inspiration, though there are likely much more talented people than myself.
 //Additionally, big thanks to Diwako for a lot of modding and scripting support. This would not have been made without him.
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
